@@ -1,0 +1,11 @@
+- title: About
+  url: /about.html
+
+- title: GitHub
+  url: https://github.com/allanmodc
+  
+- title: CFD
+  url: /cfd_menu.html
+  
+- title: New Entry
+  url: /cfd/index.html
